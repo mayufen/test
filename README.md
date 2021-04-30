@@ -13,5 +13,4 @@
   >3. sublist
 
 |name|age|
-|----|---|
 |apple|100|
